@@ -1,0 +1,28 @@
+{
+  "pets": [
+    {
+      "id": "uuidv4()",
+      "nome": "Pantera",
+      "titulo": "Dona do pedaço",
+      "imagem": "https://media.istockphoto.com/id/1296353202/pt/foto/group-of-pets-posing-around-a-border-collie-dog-cat-ferret-rabbit-bird-fish-rodent.jpg?s=612x612&w=0&k=20&c=jiW8E5uSGc1XUONuoe9paRrySjpVkXJOKBXgSN5Ovw8=",
+      "dono": "donos[0].nome",
+      "favorito": false
+    },
+    {
+      "id": "uuidv4()",
+      "nome": "Isis",
+      "titulo": "Não me toque",
+      "imagem": "https://media.istockphoto.com/id/1296353202/pt/foto/group-of-pets-posing-around-a-border-collie-dog-cat-ferret-rabbit-bird-fish-rodent.jpg?s=612x612&w=0&k=20&c=jiW8E5uSGc1XUONuoe9paRrySjpVkXJOKBXgSN5Ovw8=",
+      "dono": "donos[1].nome",
+      "favorito": false
+    },
+    {
+      "id": "uuidv4()",
+      "nome": "Mel",
+      "titulo": "Alise meu pelo",
+      "imagem": "https://media.istockphoto.com/id/1296353202/pt/foto/group-of-pets-posing-around-a-border-collie-dog-cat-ferret-rabbit-bird-fish-rodent.jpg?s=612x612&w=0&k=20&c=jiW8E5uSGc1XUONuoe9paRrySjpVkXJOKBXgSN5Ovw8=",
+      "dono": "donos[2].nome",
+      "favorito": false
+    }
+  ]
+}
